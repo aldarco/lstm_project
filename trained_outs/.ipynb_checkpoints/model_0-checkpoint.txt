@@ -1,0 +1,70 @@
+Seq2SeqLSTM(
+  (encoder): EncoderLSTM(
+    (embedding): Embedding(5000, 128)
+    (lstm): LSTM(128, 128, batch_first=True)
+  )
+  (decoder): DecoderLSTM(
+    (embedding): Embedding(5000, 128)
+    (lstm): LSTM(128, 128, batch_first=True)
+    (out): Linear(in_features=128, out_features=5000, bias=True)
+  )
+)
+Training ...
+Epoch 1/30: Avg Loss4.395070002245286, latest Loss 4.230283737182617
+Epoch 2/30: Avg Loss3.6471167070713766, latest Loss 3.752202033996582
+Epoch 3/30: Avg Loss3.3167512666988275, latest Loss 4.25619649887085
+Epoch 4/30: Avg Loss3.122931292339147, latest Loss 2.6680548191070557
+Epoch 5/30: Avg Loss2.996012330255409, latest Loss 3.528635025024414
+Epoch 6/30: Avg Loss2.90340663775423, latest Loss 4.059764385223389
+Epoch 7/30: Avg Loss2.8327776061905388, latest Loss 2.5466110706329346
+Epoch 8/30: Avg Loss2.7730692379367614, latest Loss 2.9503211975097656
+Epoch 9/30: Avg Loss2.7255921279925004, latest Loss 2.9581055641174316
+Epoch 10/30: Avg Loss2.6840451791987605, latest Loss 2.910048723220825
+Epoch 11/30: Avg Loss2.6474239126867025, latest Loss 2.7692813873291016
+Epoch 12/30: Avg Loss2.6132248413231824, latest Loss 1.7243056297302246
+Epoch 13/30: Avg Loss2.5857321541786833, latest Loss 2.0242347717285156
+Epoch 14/30: Avg Loss2.5592526072492583, latest Loss 2.252049207687378
+Epoch 15/30: Avg Loss2.5379912600389964, latest Loss 2.193059206008911
+Epoch 16/30: Avg Loss2.5140070082205055, latest Loss 3.4826605319976807
+Epoch 17/30: Avg Loss2.494886100902731, latest Loss 2.170839548110962
+Epoch 18/30: Avg Loss2.4764740065325683, latest Loss 1.9459298849105835
+Epoch 19/30: Avg Loss2.4608329166513827, latest Loss 2.8148417472839355
+Epoch 20/30: Avg Loss2.4447064101529206, latest Loss 2.6401638984680176
+Epoch 21/30: Avg Loss2.4295913077316214, latest Loss 2.381401300430298
+Epoch 22/30: Avg Loss2.4152114049666116, latest Loss 3.308819532394409
+Epoch 23/30: Avg Loss2.4025127594907087, latest Loss 1.7094573974609375
+Epoch 24/30: Avg Loss2.3924225745390073, latest Loss 1.607719898223877
+Epoch 25/30: Avg Loss2.3822866682841877, latest Loss 2.1432652473449707
+Epoch 26/30: Avg Loss2.3727734302081225, latest Loss 2.054389238357544
+Epoch 27/30: Avg Loss2.3604076051750735, latest Loss 2.900049924850464
+Epoch 28/30: Avg Loss2.352276003362083, latest Loss 2.0395050048828125
+Epoch 29/30: Avg Loss2.3442861011930933, latest Loss 2.983574628829956
+Epoch 30/30: Avg Loss2.3366784134417435, latest Loss 1.7407118082046509
+
+
+Test
+Example 1
+	English: you've only been here for three weeks.
+	Spanish: solo llevas tres semanas aquí.
+	Predicted:  solo solo semanas de semanas semanas semanas. 
+
+Example 2
+	English: he is always late for school.
+	Spanish: él siempre llega tarde a la escuela.
+	Predicted:  él siempre llega tarde a la escuela. 
+
+Example 3
+	English: when i was a boy, i was addicted to reading detective stories.
+	Spanish: de niño yo era adicto a la lectura de cuentos policiales.
+	Predicted:  cuando él era era adictoaba de de de de de de... 
+
+Example 4
+	English: my left foot has gone to sleep.
+	Spanish: se me durmió el pie izquierdo.
+	Predicted:  mi se se de ido en la.. 
+
+Example 5
+	English: i want this.
+	Spanish: quiero esto.
+	Predicted:  quiero este. 
+
