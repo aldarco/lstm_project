@@ -1,0 +1,51 @@
+#	Inglés (Máx 8 palabras)	Tiempo Verbal	Español
+1	I walk to school every day.	Present Simple	Camino a la escuela cada día.
+2	She writes emails regularly.	Present Simple	Ella escribe correos regularmente.
+3	They learn English quickly.	Present Simple	Ellos aprenden inglés rápidamente.
+4	He plays soccer on weekends.	Present Simple	Él juega fútbol los fines de semana.
+5	We drink coffee every morning.	Present Simple	Tomamos café cada mañana.
+6	The sun rises in the east.	Present Simple	El sol sale por el este.
+7	She always arrives on time.	Present Simple	Ella siempre llega a tiempo.
+8	Birds fly south in winter.	Present Simple	Los pájaros vuelan al sur en invierno.
+9	I finished my work yesterday.	Simple Past	Terminé mi trabajo ayer.
+10	They visited Paris last summer.	Simple Past	Ellos visitaron París el verano pasado.
+11	He cooked dinner for us.	Simple Past	Él cocinó la cena para nosotros.
+12	She studied all night.	Simple Past	Ella estudió toda la noche.
+13	We watched a movie together.	Simple Past	Vimos una película juntos.
+14	The phone rang suddenly.	Simple Past	El teléfono sonó de repente.
+15	It rained heavily yesterday.	Simple Past	Llovió fuerte ayer.
+16	They bought a new car.	Simple Past	Compraron un coche nuevo.
+17	I have completed my project.	Present Perfect	He completado mi proyecto.
+18	She has traveled to Japan.	Present Perfect	Ella ha viajado a Japón.
+19	We have seen that movie.	Present Perfect	Hemos visto esa película.
+20	He has written three books.	Present Perfect	Él ha escrito tres libros.
+21	They have moved to Madrid.	Present Perfect	Se han mudado a Madrid.
+22	I have lost my keys.	Present Perfect	He perdido mis llaves.
+23	She has finished her degree.	Present Perfect	Ella ha terminado su carrera.
+24	We have eaten already.	Present Perfect	Ya hemos comido.
+25	The broken window needs fixing.	Past Participle	La ventana rota necesita arreglo.
+26	She has a written permission.	Past Participle	Ella tiene un permiso escrito.
+27	The stolen car was recovered.	Past Participle	El coche robado fue recuperado.
+28	We saw the fallen tree.	Past Participle	Vimos el árbol caído.
+29	He wore his torn jeans.	Past Participle	Él usó sus jeans rotos.
+30	The closed store disappoints customers.	Past Participle	La tienda cerrada decepciona a clientes.
+31	I read books every evening.	Present Simple	Leo libros cada tarde.
+32	Water boils at 100 degrees.	Present Simple	El agua hierve a 100 grados.
+33	She teaches mathematics at university.	Present Simple	Ella enseña matemáticas en la universidad.
+34	They worked hard last month.	Simple Past	Trabajaron duro el mes pasado.
+35	He answered all questions correctly.	Simple Past	Respondió todas las preguntas correctamente.
+36	The concert ended at midnight.	Simple Past	El concierto terminó a medianoche.
+37	I have never tried sushi.	Present Perfect	Nunca he probado el sushi.
+38	They have just arrived home.	Present Perfect	Acaban de llegar a casa.
+39	She has already made dinner.	Present Perfect	Ella ya ha hecho la cena.
+40	We have lived here for years.	Present Perfect	Hemos vivido aquí por años.
+41	The excited children ran outside.	Past Participle	Los niños emocionados corrieron afuera.
+42	She found the hidden treasure.	Past Participle	Encontró el tesoro escondido.
+43	The painted wall looks fresh.	Past Participle	La pared pintada se ve fresca.
+44	I listen to music daily.	Present Simple	Escucho música diariamente.
+45	He drives to work alone.	Present Simple	Él conduce al trabajo solo.
+46	They painted their house blue.	Simple Past	Pintaron su casa de azul.
+47	She has visited five countries.	Present Perfect	Ha visitado cinco países.
+48	The frozen lake is dangerous.	Past Participle	El lago congelado es peligroso.
+49	We celebrate birthdays happily.	Present Simple	Celebramos cumpleaños felizmente.
+50	He has broken his promise.	Present Perfect	Él ha roto su promesa.
